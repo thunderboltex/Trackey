@@ -1,0 +1,1 @@
+bool NotesFingerCheck(int KEYCODE);
